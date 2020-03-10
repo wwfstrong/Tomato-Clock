@@ -1,9 +1,9 @@
 App({
   globalData: {
-    host: 'https://gp-server.hunger-valley.com',  //照抄
+    host: 'https://gp-server.hunger-valley.com', 
     app_id: "wx15f3479cc1352b78 ",
-    app_secret: "aa002db81d2c9a81aae564485722e03f",
-    t_app_id: "6vSHR8CSuNZpr9HsC2J2qv8W",
-    t_app_secret: "M9TL1v37uAUeWWoCz7PDbCnD"
+    app_secret: "77e6da5ad66e89cbcc3cd9d563b02e22",
+    t_app_id: "pd1cw6rbCh1EccK6stTzwo9D",
+    t_app_secret: "KGjA5sVLc8HyFrSop5qT8Lns"
   }
 })
